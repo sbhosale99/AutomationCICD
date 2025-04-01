@@ -6,7 +6,7 @@
 </listeners>
   <test thread-count="5" name="Test">
     <classes>
-      <class name="Akamai.EtETest.SubmitTestETE"/>
+      <class name="Akamai.EtETest.SubmitOrderTest"/>
       <class name="Akamai.EtETest.ErrorValidationsTestETE"/>
     </classes>
   </test> <!-- Test -->
